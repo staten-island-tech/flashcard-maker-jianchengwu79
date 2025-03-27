@@ -1,0 +1,26 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2023,
+        "image": "camry_image.jpg"
+    },
+    {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "image": "civic_image.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "image": "mustang_image.jpg"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2024,
+        "image": "malibu_image.jpg"
+    }
+]
