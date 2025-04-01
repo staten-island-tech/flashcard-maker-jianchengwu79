@@ -1,8 +1,6 @@
 {
-    "line segment that passes through the center of the circle and has its endpoints on the circle": "diameter",
-    "line segment from the center of the circle to a point on the circle": "radius",
-    "half of a circle": "semi-circle",
-    "angle whose vertex is the center of a circle": "central angle",
-    "angle formed by two chords that have a common end point on the circle": "inscribed angle",
-    "point from which all points on a circle are equidistant": "center"
+    "The angle at the center of a circle is twice the angle at the circumference, when both angles are subtended by the same arc.": "Angle at the Center",
+    "The angle in a semicircle is always a right angle (90 degrees).": "Angle in a Semicircle",
+    "Angles subtended by the same arc (in the same segment) at the circumference are equal.": "Angles in the Same Segment",
+    "The angle between a chord and a tangent at the point of contact is equal to the angle in the alternate segment.": "Alternate Segment Theorem"
 }
