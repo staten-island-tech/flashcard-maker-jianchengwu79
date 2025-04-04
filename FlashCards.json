@@ -1,6 +1,21 @@
 {
-    "The angle at the center of a circle is twice the angle at the circumference, when both angles are subtended by the same arc.": "Angle at the Center",
-    "The angle in a semicircle is always a right angle (90 degrees).": "Angle in a Semicircle",
-    "Angles subtended by the same arc (in the same segment) at the circumference are equal.": "Angles in the Same Segment",
-    "The angle between a chord and a tangent at the point of contact is equal to the angle in the alternate segment.": "Alternate Segment Theorem"
+    "The distance from the center of the circle to any point on the circle.": "Radius",
+    "The longest distance across the circle, passing through the center. It's twice the radius.": "Diameter",
+    "The perimeter or boundary length of the circle, calculated as 2πr, where r is the radius.": "Circumference",
+    "The space enclosed by the circle, calculated as πr², where r is the radius.": "Area",
+    "A line segment connecting two points on the circle.": "Chord",
+    "A line that intersects the circle at two points.": "Secant",
+    "A line that touches the circle at exactly one point.": "Tangent",
+    "A portion of the circumference of the circle.": "Arc",
+    "A region of the circle enclosed by two radii and the arc between them.": "Sector",
+    "A region of the circle enclosed by a chord and the arc it subtends.": "Segment",
+    "An angle whose vertex is at the center of the circle and whose sides are radii.": "Central Angle",
+    "An angle whose vertex is on the circle and whose sides are chords of the circle.": "Inscribed Angle",
+    "A quadrilateral where all four vertices lie on the circle.": "Cyclic Quadrilateral",
+    "Circles that have the same center but different radii.": "Concentric Circles",
+    "The distance along the arc, calculated as θr, where θ is the central angle in radians and r is the radius.": "Arc Length",
+    "The center of the circumscribed circle around a polygon.": "Circumcenter",
+    "The circle inscribed inside a polygon that touches all its sides.": "Incircle",
+    "A circle that is externally tangent to one side of a triangle and the extensions of the other two sides.": "Excircle",
+    "A coordinate system where a point is described by its distance from the origin (radius) and its angle from the positive x-axis.": "Polar Coordinates"
 }
