@@ -28,7 +28,7 @@ class TeacherMode(Mode):
             answer = input(f"Enter the answer for '{word}': ").strip()
             flashcards[word] = answer
         
-        flashcards_data.extend(flashcards.items()) 
+        flashcards_data.update(flashcards.items()) 
         with open("FlashCards.json", "w") as file:
             json.dump(flashcards_data, file, indent=4)
         print("The flashcards have been added to FlashCards.json.")

@@ -1,8 +1,8 @@
 {
     "The distance from the center of the circle to any point on the circle.": "Radius",
     "The longest distance across the circle, passing through the center. It's twice the radius.": "Diameter",
-    "The perimeter or boundary length of the circle, calculated as 2πr, where r is the radius.": "Circumference",
-    "The space enclosed by the circle, calculated as πr², where r is the radius.": "Area",
+    "The perimeter or boundary length of the circle, calculated as 2(pi)r, where r is the radius.": "Circumference",
+    "The space enclosed by the circle, calculated as (pi)r^2, where r is the radius.": "Area",
     "A line segment connecting two points on the circle.": "Chord",
     "A line that intersects the circle at two points.": "Secant",
     "A line that touches the circle at exactly one point.": "Tangent",
@@ -13,9 +13,10 @@
     "An angle whose vertex is on the circle and whose sides are chords of the circle.": "Inscribed Angle",
     "A quadrilateral where all four vertices lie on the circle.": "Cyclic Quadrilateral",
     "Circles that have the same center but different radii.": "Concentric Circles",
-    "The distance along the arc, calculated as θr, where θ is the central angle in radians and r is the radius.": "Arc Length",
+    "The distance along the arc, calculated as \u00ce\u00b8r, where \u00ce\u00b8 is the central angle in radians and r is the radius.": "Arc Length",
     "The center of the circumscribed circle around a polygon.": "Circumcenter",
     "The circle inscribed inside a polygon that touches all its sides.": "Incircle",
     "A circle that is externally tangent to one side of a triangle and the extensions of the other two sides.": "Excircle",
-    "A coordinate system where a point is described by its distance from the origin (radius) and its angle from the positive x-axis.": "Polar Coordinates"
+    "A coordinate system where a point is described by its distance from the origin (radius) and its angle from the positive x-axis.": "Polar Coordinates",
+    "5 inches, weird, quirky": "Alex"
 }
