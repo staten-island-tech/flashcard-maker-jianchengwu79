@@ -53,18 +53,28 @@ class StudentMode(Mode):
     
         correct = 0
         total = len(flashcards_list)
+        streak = 0
+        bonuspoints = 0
 
         for word, answer in flashcards_list:
             user_answer = input(f"What is your answer for '{word}'?: ").strip()
             if user_answer.lower() == answer.lower():
                 print("You got it correct!!")
                 correct += 1
+                streak +- 1
+                if streak > 0 and streak % 3 == 0:
+                    bonuspoints += 1
+                    print("bonus point for 3 in a row i guess..")
             else:
                 print(f"Heh.. you got it wrong. The correct answer is {answer}")
+                streak = 0
             print()
 
         percentage = (correct / total) * 100
         print(f"You finished your quiz... You got {correct} out of {total} correct. That is a {percentage:.2f}% score!")
+        print(f"Bonus points: {bonuspoints}")
+        total_points = correct + bonuspoints
+        print(f"Total points (correct + bonus): {total_points}")
 
 
 class SwitchingMode:

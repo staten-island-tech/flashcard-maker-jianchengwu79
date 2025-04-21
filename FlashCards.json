@@ -1,6 +1,6 @@
 {
     "A substance that donates hydrogen ions (H+) in a solution.": "Acid",
-    "A substance that accepts hydrogen ions (H+) or donates hydroxide ions (OH−).": "Base",
+    "A substance that accepts hydrogen ions (H+) or donates hydroxide ions (OH\u00e2\u02c6\u2019).": "Base",
     "A scale used to specify the acidity or basicity of an aqueous solution.": "pH",
     "A chemical reaction between an acid and a base producing salt and water.": "Neutralization",
     "An acid that completely dissociates in water (e.g., HCl, HNO3).": "Strong Acid",
@@ -12,11 +12,12 @@
     "A proton (H+) donor.": "Bronsted-Lowry Acid",
     "A proton (H+) acceptor.": "Bronsted-Lowry Base",
     "Increases the concentration of H+ ions in aqueous solution.": "Arrhenius Acid",
-    "Increases the concentration of OH− ions in aqueous solution.": "Arrhenius Base",
+    "Increases the concentration of OH\u00e2\u02c6\u2019 ions in aqueous solution.": "Arrhenius Base",
     "A substance that can act as both an acid and a base (e.g., water).": "Amphoteric",
     "A solution that resists changes in pH upon the addition of acid or base.": "Buffer",
     "A technique to determine the concentration of an unknown acid or base.": "Titration",
     "The point in a titration where the amount of acid equals the amount of base.": "Equivalence Point",
     "A substance that changes color based on pH, used in titrations.": "Indicator",
-    "The reaction in which water molecules produce H+ and OH− ions.": "Autoionization of Water"
+    "The reaction in which water molecules produce H+ and OH\u00e2\u02c6\u2019 ions.": "Autoionization of Water",
+    "Comp Sci class": "sucks"
 }
